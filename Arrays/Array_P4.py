@@ -1,5 +1,5 @@
 import array as ar
-from utils import prblm2 as UTIL
+from Utils.utils import prblm2 as UTIL
 
 arr_val=ar.array('i',[1,2,3,4,5,5,6])
 chk_val=input("enter value to be removed :")

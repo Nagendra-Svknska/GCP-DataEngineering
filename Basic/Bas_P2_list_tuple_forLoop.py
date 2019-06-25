@@ -1,4 +1,4 @@
-from utils import prblm2 as prbl
+from Utils.utils import prblm2 as prbl
 # def find_datatype(abc) :
 #         list2 = ([])
 #         print(abc)

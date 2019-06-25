@@ -1,4 +1,4 @@
-from utils import prblm2 as util
+from Utils.utils import prblm2 as util
 
 valStr=input("enter values with a space:")
 listVal=util.find_datatype(valStr.split())

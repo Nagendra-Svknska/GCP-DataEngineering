@@ -1,8 +1,6 @@
-import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib import style
-from utils import prblm2 as prb
+from Utils.utils import prblm2 as prb
 
 style.use("ggplot")
 
