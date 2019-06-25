@@ -1,4 +1,4 @@
-from utils import prblm2 as util
+from Utils.utils import prblm2 as util
 
 val=input("enter an Integer :")
 v=util.find_Binary(val)                 #using custom made function

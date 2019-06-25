@@ -84,3 +84,36 @@ class prblm2:
                 final_val = i * i
                 dt.update({i: final_val})
         print(dt)
+
+
+
+    def list_sum(list1):
+        sum = int();
+        for i in range(len(list1)):
+            sum = sum + list1[i]
+        return sum
+
+    def list_multiply(list1):
+        mul = int(1);
+        for i in range(len(list1)):
+            mul = mul * list1[i]
+        return mul
+
+    def repeated_items_Tup(tup_val):
+        list_re = []
+        for i in range(len(tup_val) - 1):
+            count = 0
+            temp_val = tup_val[i]
+            # print("temp_val :",temp_val)
+            for j in tup_val:
+                # print("j :",j)
+                if (temp_val == j):
+                    count = count + 1
+                    # print("entered count",count)
+            if (count > 1):
+                # print("entered final count")
+                # print("list_re :",list_re)
+                if tup_val[i] not in list_re:
+                    list_re.append(tup_val[i])
+
+        return list_re
