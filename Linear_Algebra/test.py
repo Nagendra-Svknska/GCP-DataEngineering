@@ -7,6 +7,6 @@ def listComprhension (temp_list):
 
 
 
-
+print(type(type(int)))
 list1=[1,2,3,4]
 print(listComprhension(list1))
