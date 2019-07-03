@@ -9,4 +9,5 @@ val=int(input("enter the value :"))
 print(prblm.dict_find_sqr(int(val)))
 
 
+
     #print("n",n,"n^n:")

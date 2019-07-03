@@ -1,12 +1,14 @@
 import numpy as np
 x_val = [[12,7,3],
-[4 ,5,6],
-[7 ,8,9],
+[11,5,6],
+[17 ,8,9],
 [0 ,1,1]]
 
 y_val = [[12,7,3],
 [4 ,5,6],
 [7 ,8,9]]
+
+print(np.sort(x_val,axis=1))
 
 print("x matrix row length :",len(x_val)," Column legth",len(x_val[0]))
 print("y matrix row length :",len(y_val),"Column legth",len(y_val[0]))
