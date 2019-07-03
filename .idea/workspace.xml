@@ -5,24 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/Probability/Prob_P3_Ace.py" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1cc1b8f-7a6e-4d9e-aaf3-e981b3ca9959" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Libraries/PL_P1_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Libraries/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Array_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Array_P2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Array_P3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Array_P3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/Bas_P1_Input_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Bas_P1_Input_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/Dict_P1_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/Dict_P1_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/Dict_P3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/Dict_P3_concat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/Dict_P5_Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/Dict_P5_Square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/Dict_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/Dict_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sets/Set_P9_Symmetric diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sets/Set_P9_Symmetric diff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sets/set_p3,4,5_add,remv,contains.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sets/set_p3,4,5_add,remv,contains.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="f1cc1b8f-7a6e-4d9e-aaf3-e981b3ca9959" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +17,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="15">
               <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Libraries/PL_P1_Conversion.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -130,8 +113,8 @@
         <option value="$PROJECT_DIR$/Dictionary/Dict_P1_Sort.py" />
         <option value="$PROJECT_DIR$/Dictionary/Dict_Test.py" />
         <option value="$PROJECT_DIR$/Sets/Set_P9_Symmetric diff.py" />
-        <option value="$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py" />
         <option value="$PROJECT_DIR$/Python-Libraries/PL_P1_Conversion.py" />
+        <option value="$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py" />
       </list>
     </option>
   </component>
@@ -153,6 +136,11 @@
             <path>
               <item name="GCP-DataEngineering" type="b2602c69:ProjectViewProjectNode" />
               <item name="GCP-DataEngineering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GCP-DataEngineering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GCP-DataEngineering" type="462c0819:PsiDirectoryNode" />
+              <item name="Linear_Algebra" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GCP-DataEngineering" type="b2602c69:ProjectViewProjectNode" />
@@ -343,7 +331,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32247558" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.54885995" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -700,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python-Libraries/PL_P1_Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -714,6 +695,13 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linear_Algebra/LA_P3_Multiply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
