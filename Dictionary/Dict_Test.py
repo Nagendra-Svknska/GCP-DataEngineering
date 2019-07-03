@@ -5,6 +5,9 @@ print(dict)
 dict={1:122,2:223,3:76}
 print(dict)
 
+# del (dict[1])
+# print(dict)
+
 #dict={'name':1,'age':'abcd','value': [1,2,3]}
 #print(dict)
 

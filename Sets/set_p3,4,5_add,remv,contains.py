@@ -5,6 +5,6 @@ setTest.remove(2) #remove method
 print("after removal 1 :",setTest)
 
 #to check  aparticluar item is present in a set
-if(1 in setTest):
+if(4 in setTest):
     setTest.remove(4)
     print("after removal 2 :",setTest)

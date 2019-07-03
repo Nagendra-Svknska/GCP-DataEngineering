@@ -12,4 +12,5 @@ for i in range(64):
      mat_val[i]=1
 print(mat_val)
 
-mat_val.reshape(8,8)
+mat_val=mat_val.reshape(8,8)
+print(mat_val)

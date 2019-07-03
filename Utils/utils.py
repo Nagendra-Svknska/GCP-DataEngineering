@@ -45,7 +45,7 @@ class prblm2:
         for i in reversed(array_val):
             list_arr.append(i)
         array_val = ar.array('i', list_arr)
-        print(array_val)
+        print("reverse array Value:",array_val)
 
     def Count_occur_Array(arr, Chkvalue):
         count = int(0)
