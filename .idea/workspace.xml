@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1cc1b8f-7a6e-4d9e-aaf3-e981b3ca9959" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Libraries/P1_Matrix_generation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Libraries/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GCP-DataEngineering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GCP-DataEngineering.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Libraries/P6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Libraries/P7_checkBoard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,14 +57,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_Libraries/P1_Matrix_generation.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Libraries/P1,P2,P3,P4,P5_Matrix_generation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="420">
+              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Libraries/P6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Libraries/P7_checkBoard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -97,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sets/set_p3_add.py" />
-        <option value="$PROJECT_DIR$/Sets/set_p3,4_add,remv.py" />
         <option value="$PROJECT_DIR$/Sets/set_P6,6,8,10_union,intersection,diff,clear.py" />
         <option value="$PROJECT_DIR$/Sets/Set_P9_Symmetric diff.py" />
         <option value="$PROJECT_DIR$/Sets/set_P6,7,8,10_union,intersection,diff,clear.py" />
@@ -148,6 +162,8 @@
         <option value="$PROJECT_DIR$/Probability/Prob_P4_Coin.py" />
         <option value="$PROJECT_DIR$/Linear_Algebra/LA_P4_Inverse.py" />
         <option value="$PROJECT_DIR$/Python_Libraries/P1_Matrix_generation.py" />
+        <option value="$PROJECT_DIR$/Python_Libraries/P6.py" />
+        <option value="$PROJECT_DIR$/Python_Libraries/P7_checkBoard.py" />
       </list>
     </option>
   </component>
@@ -203,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.P1_Matrix_generation">
+  <component name="RunManager" selected="Python.P7_checkBoard">
     <configuration name="P1_Matrix_generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GCP-DataEngineering" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Libraries/P1_Matrix_generation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Libraries/P1,P2,P3,P4,P5_Matrix_generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_P1_ace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GCP-DataEngineering" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +249,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Probability" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Libraries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Probability/Prob_P1_ace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Libraries/P6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prob_P2_King" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P7_checkBoard" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GCP-DataEngineering" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Probability" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Libraries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Probability/Prob_P2_King.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Libraries/P7_checkBoard.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P7_checkBoard" />
+        <item itemvalue="Python.P6" />
         <item itemvalue="Python.P1_Matrix_generation" />
         <item itemvalue="Python.Prob_P4_Coin" />
         <item itemvalue="Python.Prob_P3_Ace" />
-        <item itemvalue="Python.Prob_P2_King" />
-        <item itemvalue="Python.Prob_P1_ace" />
       </list>
     </recent_temporary>
   </component>
@@ -350,13 +366,13 @@
       <window_info id="Favorites" order="2" sideWeight="0.50242716" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3257329" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32410422" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -376,16 +392,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tuple.py" />
-    <entry file="file://$PROJECT_DIR$/Basic/Bas_P8_histograms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basic/Bas_P7_Oprtions_onList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -706,13 +712,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Libraries/P1_Matrix_generation.py">
+    <entry file="file://$PROJECT_DIR$/Python_Libraries/P6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Libraries/P1,P2,P3,P4,P5_Matrix_generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Libraries/P7_checkBoard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
