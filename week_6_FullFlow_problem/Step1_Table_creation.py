@@ -1,7 +1,7 @@
 from google.cloud import bigquery
 
 def bq_create_table():
-    print "entered the method"
+    print ("entered the method")
     bigquery_client = bigquery.Client()
     dataset_ref = bigquery_client.dataset('my_datasset_id')
 
@@ -24,5 +24,5 @@ def bq_create_table():
         
 
 
-print "entered the py file"
+print ("entered the py file")
 bq_create_table()

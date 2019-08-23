@@ -20,7 +20,7 @@ def getmodel(file_val):
 
 
 def printer(data_item):
-    print data_item
+    print (data_item)
     # print ('val')
 
 
